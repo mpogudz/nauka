@@ -1,1 +1,16 @@
 cos i cos innego XD 
+
+git init - inicjalizuje repozytorium
+git clone - klonuje repozytorium
+git fetch - pobiera branche
+git add . - dodaje wszystkie pliki z danego directory do stage
+git add nazwapliku - dodaje konkretny plik nazwapliku do stage
+git commit -m "nazwa commita" - commituje wszystkie pliki znajdujace sie w stage z wiadomoscia "nazwa commita"
+git push - pushuje commit na branch remote
+git pull origin nazwaBrancha - zaciaga zmiany na lokal z brancha nazwaBrancha
+git branch - wyswietla liste istniejacych branchy
+git branch nazwaBrancha - tworzy branch o nazwie nazwaBrancha
+git checkout nazwaBrancha - zmienia branch z obecnego na nazwaBrancha
+git reset - usuwa wszystkie pliki ze stage
+git reset nazwaPliku - usuwa plik nazwaPliku ze stage
+git status - sprawdza sytuacje :D
